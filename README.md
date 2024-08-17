@@ -38,8 +38,8 @@ The **Animated GIF Chatbot** is an interactive web-based chatbot designed to enh
 *Interact with the Interface:* Move your cursor around to see the background animation and other interactive effects.
 
 ## Screenshots
-![Chat Interface](screenshots/gifchatbot1.png)
-![Chat Interface](screenshots/gifchatbot2.png)
+![Chat Interface](gifchatbot1.png)
+![Chat Interface](gifchatbot2.png)
 *Screenshot of the chatbot in action.*
 
 ## Contributing
