@@ -16,6 +16,10 @@ The **Animated GIF Chatbot** is an interactive web-based chatbot designed to enh
 - **JavaScript**: For handling user interactions, sound effects, and managing the chatbot's response logic.
 - **Flask**: (Assumed from `app.py`) Backend framework for serving the web application.
 
+**API guide**
+goto this website and create your own api key
+**Giphy:** [create your own API](https://developers.giphy.com/explorer/)
+
 ## Installation
 
 1. **Clone the Repository:**
